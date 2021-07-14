@@ -1,0 +1,31 @@
+
+body{
+    background-image:url('bbb.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.details{
+    margin-top: 70px;
+    text-align: center;
+    color:rgb(29, 29, 212);
+  font-size: 40px;
+}
+
+#h1t{
+    margin-top: 80px;
+    color:rgb(20, 20, 22);
+    font-size: 90px;
+    font-size: x-large;
+
+}
+
+#h2t{
+    margin-top: 180px;
+    color:rgb(20, 20, 22);
+    font-size: 50px;
+    font-size: x-large;
+
+}
+h1{
+    color: rgb(46, 11, 143);
+}
